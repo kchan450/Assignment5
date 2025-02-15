@@ -1,4 +1,4 @@
-Assignment 5: Toddler Project
+**Assignment 5: Toddler Project**
 
 Objective
 In this assignment, two datasets are merged to create a comprehensive table that includes both sales data and unit costs.
