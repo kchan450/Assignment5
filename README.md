@@ -3,8 +3,9 @@
 Objective
 In this assignment, two datasets are merged to create a comprehensive table that includes both sales data and unit costs.
 
-Nike Sales Dataset (Nike_sales_2024) – Sourced from Kaggle, this dataset contains Nike's global sales data for 2024. (https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024)
+Dataset 1: Nike Sales Dataset (Nike_sales_2024) – Sourced from Kaggle, this dataset contains Nike's global sales data for 2024. (https://www.kaggle.com/datasets/ayushcx/nike-global-sales-data-2024), it is the one copied from Assignment 3
 
-Nike Unit Cost Dataset (Nike_unitcost) – it is generated from [www.mockaroo.com], providing unit cost for different Nike products.
+Dataset 2: Nike Unit Cost Dataset (Nike_unitcost) – it is generated from [www.mockaroo.com], providing unit cost for different Nike products.
 
-By joining these datasets, a more detailed sales table that includes both sales figures and unit costs, enabling a deeper analysis of profit or pricing strategy for each country/month. Also, it can help to identify any potential discrepancies in the Cost Dataset.
+By joining these datasets, a more detailed sales table that includes sales figures as well as its related unit costs by each product line, enabling a deeper analysis of profit or pricing strategy for each country/month. 
+In addition, it can help to identify any missing records in the Nike_unitCost Dataset for further update.
